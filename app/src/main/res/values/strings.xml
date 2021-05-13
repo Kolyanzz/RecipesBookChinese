@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RecipesBookChinese</string>
+    <string name="retry">Retry</string>
+    <string name="error_msg">Error getting data</string>
+    <string name="viewtype_creation_error">ViewType not declared</string>
+    <string name="app_label">RecipeApp</string>
+    <string name="search_hint">Type ingredients for recipes</string>
+    <string name="search">Search</string>
+    <string name="load_data">Load data</string>
+    <string name="recipes_empty">No recipes found, try to type onions,chicken,milk …</string>
+    <string name="add_to_favourites">Add to favourites</string>
+    <string name="has_lactose">Lactose</string>
+    <string name="saved_favs">saved to favourites</string>
+    <string name="Delete">Delete</string>
+    <string name="deleted_favs">deleted from favourites</string>
+    <string name="favourite_activity_title">Favourite recipes</string>
+    <string name="webview_activity_title">Web recipe</string>
+    <string name="no_recipes_text">There is no recipes in favourites yet.</string>
+</resources>
